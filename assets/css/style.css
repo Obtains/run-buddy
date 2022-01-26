@@ -106,6 +106,45 @@ section {
     border-color: #39a6b2;
 }
 
+.contact {
+    text-align: center;
+    background: #024e76;
+}
+
+.contact h2 {
+    color: #fce138;
+}
+
+.contact-info iframe {
+    width: 400px;
+    height: 400px;
+}
+
+.contact-info div {
+    display: inline-block;
+    text-align: left;
+    color:white;
+    vertical-align: top;
+    width: 410px;
+    margin: 30px 0 0 60px;
+}
+
+.contact-info h3 {
+    color: #fce138;
+    font-size: 32px;
+}
+
+.contact-info p, .contact-info address {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.contact-info a {
+    color: #fce138;
+}
+
 .steps div {
     margin-bottom: 80px;
 }
